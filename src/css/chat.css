@@ -1,0 +1,15 @@
+#borderpane{
+    -fx-background-image: url("../image/chat.png");
+    -fx-background-repeat: no-repeat;
+}
+#vbox1{
+    -fx-background-image: url("../image/chat.png");
+    -fx-background-repeat: no-repeat;
+}
+#vbox2{
+    -fx-background-image: url("../image/chat.png");
+    -fx-background-repeat: no-repeat;
+}
+.list-cell{
+    -fx-text-fill: #721919;
+}

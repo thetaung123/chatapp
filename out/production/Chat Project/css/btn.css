@@ -1,0 +1,11 @@
+.button {
+    -fx-background-color:transparent;
+    -fx-opacity: 1;
+}
+
+.button:hover {
+    -fx-opacity: 0.3;
+}
+.button:pressed {
+    -fx-opacity: 0.6;
+}
